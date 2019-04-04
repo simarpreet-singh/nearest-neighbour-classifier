@@ -1,4 +1,4 @@
-# nearest-neighbour-classifier
+# nearest-neighbor-classifier
 
 This is an implementation of the K nearest neighbours algorithm where K is set to 1 by default (thus just anearest Neighbour!).
 Beyond the actual algorithm, use the script to make predictions after training the model on any (numerical, and labeled) dataset you have!
